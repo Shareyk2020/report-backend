@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "rep_1793429534152_upbuia",
+    "reason": "nsfw",
+    "details": "",
+    "imageUri": null,
+    "platform": "android",
+    "reporterIp": "::ffff:192.168.0.148",
+    "status": "pending",
+    "reviewNotes": "",
+    "reportedAt": "2026-10-31T06:52:14.667Z",
+    "createdAt": "2026-10-31T06:52:14.152Z",
+    "updatedAt": "2026-10-31T06:52:14.152Z"
+  }
+]
